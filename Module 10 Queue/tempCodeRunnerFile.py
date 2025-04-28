@@ -1,0 +1,1 @@
+print("Deque :",q)
